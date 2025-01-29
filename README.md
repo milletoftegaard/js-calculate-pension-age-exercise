@@ -92,7 +92,7 @@ Here is an example on how you start your if statements:
 
 
 
-14. Finnaly make an `if else statement` that display the appropriate message in the `<p>` element. Here is how to do it:
+14. Finaly make an `if else statement` that display the appropriate message in the `<p>` element. Here is how to do it:
     ```javaScript 
         if (retirementAge <= 66) {
             resultParagraphElem.textContent = `Du har opnået din folkepensionsalder.`;
@@ -100,7 +100,7 @@ Here is an example on how you start your if statements:
             resultParagraphElem.textContent = `Du kan gå på pension ${retirementAge} år.`;
         }
     }
-  
+    ```
 
 15. Open Go Live in your VS Code editor and check that the content has been updated. 
 
